@@ -52,4 +52,18 @@ If you find this bot helpful, please consider:
 - Following our Telegram channel
 - Contributing to the project
 
+
+### 🔑 Tags
+- bot 
+- airdrop 
+- 3dos 
+- 3dos-bot 
+- 3dos-ai 
+- 3dos-auto-bot 
+- 3dos-network 
+- 3dos-auto 
+- 3dos-network-bot 
+- 3dos-miner 
+- 3dos-claimer 
+- 3dos-airdrop
 ---
